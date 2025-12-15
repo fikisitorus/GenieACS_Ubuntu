@@ -99,10 +99,10 @@ Script ini akan menginstall dan mengkonfigurasi secara otomatis:
 
 ```bash
 # Download script
-wget https://raw.githubusercontent.com/your-repo/install-genieacs.sh
+wget https://raw.githubusercontent.com/fikisitorus/GenieACS_Ubuntu/main/install-genieacs.sh
 
 # Atau gunakan curl
-curl -O https://raw.githubusercontent.com/your-repo/install-genieacs.sh
+curl -O https://raw.githubusercontent.com/fikisitorus/GenieACS_Ubuntu/main/install-genieacs.sh
 
 # Berikan permission execute
 chmod +x install-genieacs.sh
@@ -115,10 +115,10 @@ sudo ./install-genieacs.sh
 
 ```bash
 # Clone repository
-git clone https://github.com/your-repo/genieacs-installer.git
+git clone https://github.com/fikisitorus/GenieACS_Ubuntu.git
 
 # Masuk ke direktori
-cd genieacs-installer
+cd GenieACS_Ubuntu
 
 # Berikan permission
 chmod +x install-genieacs.sh
@@ -130,7 +130,7 @@ sudo ./install-genieacs.sh
 ### Metode 3: One-liner Installation
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/your-repo/install-genieacs.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/fikisitorus/GenieACS_Ubuntu/main/install-genieacs.sh | sudo bash
 ```
 
 ---
@@ -545,7 +545,7 @@ Kontribusi sangat diterima! Silakan:
 Jika menemukan bug atau butuh bantuan:
 
 - 📧 Email: fikri.sitorus@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/your-repo/issues)
+- 🐛 Issues: [GitHub Issues](https://github.com/fikisitorus/GenieACS_Ubuntu/issues)
 - 📖 Dokumentasi: [GenieACS Documentation](https://genieacs.com/docs/)
 
 ---
